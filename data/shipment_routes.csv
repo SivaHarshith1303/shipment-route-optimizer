@@ -1,0 +1,121 @@
+shipment_id,origin,destination,route_id,intermediate_hub,cost,transit_days,delay_probability,congestion_risk,geopolitical_risk
+S001,Hyderabad,London,R1,Colombo,46717,25,0.08,0.44,0.07
+S001,Hyderabad,London,R2,Singapore,54328,15,0.23,0.12,0.2
+S001,Hyderabad,London,R3,Istanbul,82590,25,0.2,0.46,0.26
+S001,Hyderabad,London,R4,Rotterdam,96970,8,0.32,0.23,0.37
+S001,Hyderabad,London,R5,Malaysia,58210,12,0.13,0.71,0.13
+S002,Chennai,London,R1,Malaysia,92895,9,0.31,0.53,0.78
+S002,Chennai,London,R2,Colombo,64807,10,0.24,0.76,0.51
+S002,Chennai,London,R3,Rotterdam,96472,19,0.25,0.66,0.08
+S002,Chennai,London,R4,Istanbul,54935,17,0.39,0.78,0.7
+S003,Chennai,Singapore,R1,Istanbul,63283,14,0.28,0.66,0.56
+S003,Chennai,Singapore,R2,Colombo,44679,13,0.24,0.3,0.4
+S003,Chennai,Singapore,R3,Singapore,57691,25,0.13,0.36,0.63
+S003,Chennai,Singapore,R4,Malaysia,43665,15,0.34,0.74,0.35
+S004,Hyderabad,New York,R1,Istanbul,97978,22,0.1,0.21,0.61
+S004,Hyderabad,New York,R2,Colombo,75322,16,0.31,0.44,0.49
+S004,Hyderabad,New York,R3,Singapore,63723,15,0.4,0.21,0.42
+S004,Hyderabad,New York,R4,Hong Kong,89530,9,0.35,0.22,0.17
+S004,Hyderabad,New York,R5,Rotterdam,84596,21,0.26,0.41,0.5
+S005,Chennai,Tokyo,R1,Rotterdam,90370,18,0.09,0.45,0.39
+S005,Chennai,Tokyo,R2,Dubai,87323,16,0.39,0.71,0.43
+S005,Chennai,Tokyo,R3,Istanbul,46973,17,0.34,0.51,0.2
+S005,Chennai,Tokyo,R4,Colombo,64504,13,0.24,0.72,0.45
+S006,Hyderabad,Tokyo,R1,Hong Kong,97587,17,0.13,0.29,0.48
+S006,Hyderabad,Tokyo,R2,Dubai,45161,10,0.31,0.75,0.78
+S006,Hyderabad,Tokyo,R3,Istanbul,74911,12,0.09,0.48,0.46
+S006,Hyderabad,Tokyo,R4,Colombo,57370,24,0.36,0.44,0.21
+S007,Bangalore,Germany,R1,Singapore,82590,19,0.2,0.51,0.14
+S007,Bangalore,Germany,R2,Istanbul,54725,10,0.17,0.57,0.22
+S007,Bangalore,Germany,R3,Colombo,54432,8,0.07,0.6,0.22
+S007,Bangalore,Germany,R4,Hong Kong,99337,9,0.35,0.16,0.23
+S007,Bangalore,Germany,R5,Rotterdam,83842,23,0.12,0.21,0.75
+S008,Bangalore,Tokyo,R1,Singapore,46181,11,0.28,0.38,0.36
+S008,Bangalore,Tokyo,R2,Hong Kong,96612,9,0.29,0.89,0.12
+S008,Bangalore,Tokyo,R3,Istanbul,66386,18,0.33,0.19,0.19
+S008,Bangalore,Tokyo,R4,Malaysia,75146,22,0.1,0.25,0.4
+S009,Hyderabad,Dubai,R1,Dubai,89385,15,0.11,0.49,0.21
+S009,Hyderabad,Dubai,R2,Malaysia,66282,9,0.11,0.1,0.34
+S009,Hyderabad,Dubai,R3,Rotterdam,91384,22,0.15,0.66,0.6
+S009,Hyderabad,Dubai,R4,Istanbul,91338,25,0.28,0.49,0.19
+S009,Hyderabad,Dubai,R5,Hong Kong,54267,9,0.25,0.53,0.61
+S010,Hyderabad,London,R1,Hong Kong,73281,10,0.35,0.15,0.1
+S010,Hyderabad,London,R2,Rotterdam,96480,15,0.19,0.85,0.48
+S010,Hyderabad,London,R3,Istanbul,77940,9,0.27,0.44,0.49
+S010,Hyderabad,London,R4,Singapore,74261,18,0.38,0.26,0.59
+S010,Hyderabad,London,R5,Dubai,55642,16,0.19,0.64,0.27
+S011,Delhi,London,R1,Hong Kong,46552,10,0.24,0.5,0.15
+S011,Delhi,London,R2,Rotterdam,62872,10,0.36,0.4,0.17
+S011,Delhi,London,R3,Istanbul,94640,25,0.3,0.59,0.79
+S012,Bangalore,London,R1,Malaysia,57332,11,0.36,0.69,0.17
+S012,Bangalore,London,R2,Rotterdam,58465,14,0.3,0.26,0.53
+S012,Bangalore,London,R3,Colombo,57300,24,0.22,0.82,0.68
+S012,Bangalore,London,R4,Dubai,46048,21,0.34,0.14,0.3
+S012,Bangalore,London,R5,Hong Kong,48573,16,0.11,0.45,0.58
+S013,Bangalore,London,R1,Dubai,75755,9,0.34,0.57,0.16
+S013,Bangalore,London,R2,Istanbul,48352,9,0.16,0.82,0.65
+S013,Bangalore,London,R3,Singapore,96407,9,0.36,0.27,0.24
+S014,Hyderabad,Singapore,R1,Malaysia,96662,13,0.39,0.75,0.71
+S014,Hyderabad,Singapore,R2,Hong Kong,41624,13,0.31,0.37,0.75
+S014,Hyderabad,Singapore,R3,Rotterdam,92575,15,0.14,0.73,0.13
+S014,Hyderabad,Singapore,R4,Singapore,97158,9,0.35,0.28,0.66
+S014,Hyderabad,Singapore,R5,Dubai,70166,19,0.16,0.74,0.22
+S015,Hyderabad,Germany,R1,Hong Kong,96646,10,0.39,0.32,0.53
+S015,Hyderabad,Germany,R2,Colombo,66193,25,0.17,0.12,0.71
+S015,Hyderabad,Germany,R3,Istanbul,57118,13,0.25,0.89,0.08
+S016,Bangalore,Dubai,R1,Istanbul,65244,14,0.14,0.67,0.05
+S016,Bangalore,Dubai,R2,Colombo,92855,25,0.29,0.85,0.6
+S016,Bangalore,Dubai,R3,Hong Kong,52912,19,0.2,0.86,0.74
+S016,Bangalore,Dubai,R4,Dubai,80839,18,0.28,0.2,0.73
+S017,Bangalore,Singapore,R1,Hong Kong,48341,14,0.2,0.85,0.56
+S017,Bangalore,Singapore,R2,Colombo,99166,13,0.27,0.34,0.46
+S017,Bangalore,Singapore,R3,Malaysia,40026,17,0.15,0.44,0.48
+S017,Bangalore,Singapore,R4,Istanbul,82906,18,0.21,0.45,0.21
+S017,Bangalore,Singapore,R5,Rotterdam,71010,13,0.28,0.33,0.55
+S018,Bangalore,Singapore,R1,Malaysia,54722,14,0.1,0.14,0.79
+S018,Bangalore,Singapore,R2,Singapore,80060,10,0.21,0.81,0.48
+S018,Bangalore,Singapore,R3,Colombo,87077,20,0.22,0.3,0.54
+S019,Hyderabad,London,R1,Singapore,43291,25,0.14,0.78,0.39
+S019,Hyderabad,London,R2,Malaysia,92521,22,0.28,0.89,0.5
+S019,Hyderabad,London,R3,Rotterdam,89496,22,0.26,0.68,0.43
+S019,Hyderabad,London,R4,Hong Kong,94432,25,0.21,0.23,0.7
+S020,Chennai,Singapore,R1,Malaysia,90188,24,0.22,0.29,0.38
+S020,Chennai,Singapore,R2,Istanbul,86762,17,0.13,0.37,0.72
+S020,Chennai,Singapore,R3,Colombo,45280,12,0.1,0.41,0.16
+S021,Mumbai,London,R1,Hong Kong,67248,9,0.12,0.44,0.73
+S021,Mumbai,London,R2,Colombo,78278,8,0.35,0.71,0.34
+S021,Mumbai,London,R3,Rotterdam,40386,19,0.15,0.41,0.72
+S021,Mumbai,London,R4,Malaysia,94770,21,0.24,0.69,0.65
+S022,Mumbai,Dubai,R1,Colombo,41902,20,0.17,0.64,0.35
+S022,Mumbai,Dubai,R2,Hong Kong,50816,22,0.37,0.88,0.45
+S022,Mumbai,Dubai,R3,Istanbul,99436,20,0.26,0.63,0.11
+S023,Chennai,New York,R1,Singapore,61453,14,0.21,0.37,0.71
+S023,Chennai,New York,R2,Dubai,58235,21,0.14,0.17,0.06
+S023,Chennai,New York,R3,Colombo,75351,9,0.4,0.38,0.54
+S023,Chennai,New York,R4,Hong Kong,91198,9,0.31,0.86,0.2
+S024,Hyderabad,Tokyo,R1,Singapore,83873,11,0.25,0.27,0.57
+S024,Hyderabad,Tokyo,R2,Malaysia,90259,19,0.11,0.59,0.61
+S024,Hyderabad,Tokyo,R3,Hong Kong,47506,13,0.39,0.19,0.07
+S025,Delhi,Tokyo,R1,Hong Kong,85260,15,0.09,0.72,0.69
+S025,Delhi,Tokyo,R2,Malaysia,79348,11,0.33,0.55,0.08
+S025,Delhi,Tokyo,R3,Singapore,74913,21,0.28,0.16,0.54
+S025,Delhi,Tokyo,R4,Dubai,40829,21,0.34,0.18,0.77
+S025,Delhi,Tokyo,R5,Colombo,81653,22,0.3,0.45,0.6
+S026,Delhi,Tokyo,R1,Malaysia,78828,16,0.16,0.3,0.75
+S026,Delhi,Tokyo,R2,Hong Kong,58279,22,0.14,0.47,0.51
+S026,Delhi,Tokyo,R3,Istanbul,64837,18,0.06,0.78,0.19
+S026,Delhi,Tokyo,R4,Rotterdam,53901,19,0.33,0.37,0.71
+S026,Delhi,Tokyo,R5,Colombo,85952,16,0.24,0.51,0.19
+S027,Mumbai,Germany,R1,Hong Kong,82329,23,0.21,0.11,0.27
+S027,Mumbai,Germany,R2,Rotterdam,66502,15,0.16,0.57,0.4
+S027,Mumbai,Germany,R3,Singapore,74794,19,0.2,0.7,0.3
+S027,Mumbai,Germany,R4,Malaysia,86062,22,0.14,0.3,0.14
+S028,Mumbai,Singapore,R1,Istanbul,52552,14,0.31,0.32,0.49
+S028,Mumbai,Singapore,R2,Rotterdam,89820,24,0.26,0.88,0.67
+S028,Mumbai,Singapore,R3,Singapore,59414,15,0.18,0.34,0.58
+S029,Mumbai,Singapore,R1,Dubai,85705,12,0.27,0.7,0.13
+S029,Mumbai,Singapore,R2,Rotterdam,40803,17,0.21,0.45,0.19
+S029,Mumbai,Singapore,R3,Colombo,43367,16,0.38,0.48,0.67
+S030,Chennai,Dubai,R1,Rotterdam,49943,12,0.33,0.86,0.11
+S030,Chennai,Dubai,R2,Istanbul,56265,11,0.25,0.43,0.5
+S030,Chennai,Dubai,R3,Dubai,80528,15,0.32,0.4,0.73
